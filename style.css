@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+
+.wrap {
+  background: lightgrey;
+  margin: 30px;
+  padding: 30px;
+  text-align: center;
+  font-family: sans-serif;
+}
