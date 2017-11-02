@@ -3,6 +3,7 @@
 }
 
 .wrap {
+  align-items: center;
   background: lightgrey;
   margin: 75px 150px;
   padding: 30px;
